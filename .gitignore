@@ -2,3 +2,4 @@
 /staticfiles/**
 /.vscode/**
 /.sass-cache/**
+.env
