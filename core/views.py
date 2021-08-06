@@ -4,6 +4,20 @@ from django.views.generic.base import View
 
 # Create your views here.
 
+'''
+Icons needed:
+Almond
+Oat
+Not Milk
+Milk
+Espresso Machine
+V60
+Aeropress
+Chemex
+Decaf
+Vegan
+'''
+
 
 class Index(View):
     def __init__(self):
